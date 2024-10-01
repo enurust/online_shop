@@ -9,7 +9,7 @@
 1. **Клонировать репозиторий**:
 
    ```bash
-   git clone https://github.com/yourusername/my-laravel-project.git
+   git clone https://github.com/enurust/online_shop.git
    cd my-laravel-project
 
 2. Установить зависимости:
